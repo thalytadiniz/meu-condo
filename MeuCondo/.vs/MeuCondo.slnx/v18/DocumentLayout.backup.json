@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\enum\\statusacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\enum\\statusacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\enum\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\enum\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\enum\\tipovisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\enum\\tipovisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\enum\\tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\enum\\tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\entities\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\entities\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\entities\\morador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\entities\\morador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\visitante\\visitanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\visitante\\visitanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\funcionario\\funcionarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\funcionario\\funcionarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\funcionario\\funcionariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\funcionario\\funcionariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\morador\\moradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\morador\\moradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\morador\\moradorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\morador\\moradorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\dto\\visitante\\visitanteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\dto\\visitante\\visitanteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\controllers\\meucondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\controllers\\meucondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\meucondo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\meucondo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|c:\\projetos\\projetoteste\\portariaeletronica\\meucondo\\meucondo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EF7E096-C147-4CFD-914F-3BACAE794176}|MeuCondo\\MeuCondo.csproj|solutionrelative:meucondo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisitanteRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Visitante\\VisitanteRequest.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Visitante\\VisitanteRequest.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Visitante\\VisitanteRequest.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Visitante\\VisitanteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:26:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visitante.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Visitante.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Entities\\Visitante.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Visitante.cs",
+              "RelativeToolTip": "MeuCondo\\Entities\\Visitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:36:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Entities\\Funcionario.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Funcionario.cs",
+              "RelativeToolTip": "MeuCondo\\Entities\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:37:10.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Morador.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Morador.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Entities\\Morador.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Morador.cs",
+              "RelativeToolTip": "MeuCondo\\Entities\\Morador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:35:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionarioResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Funcionario\\FuncionarioResponse.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Funcionario\\FuncionarioResponse.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Funcionario\\FuncionarioResponse.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Funcionario\\FuncionarioResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:26:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoFuncionario.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoFuncionario.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Enum\\TipoFuncionario.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoFuncionario.cs",
+              "RelativeToolTip": "MeuCondo\\Enum\\TipoFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:46:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoVisitante.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoVisitante.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Enum\\TipoVisitante.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoVisitante.cs",
+              "RelativeToolTip": "MeuCondo\\Enum\\TipoVisitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:55:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Enum\\TipoDocumento.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\TipoDocumento.cs",
+              "RelativeToolTip": "MeuCondo\\Enum\\TipoDocumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:37:41.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusAcesso.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\StatusAcesso.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Enum\\StatusAcesso.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Enum\\StatusAcesso.cs",
+              "RelativeToolTip": "MeuCondo\\Enum\\StatusAcesso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:51:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FuncionarioRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Funcionario\\FuncionarioRequest.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Funcionario\\FuncionarioRequest.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Funcionario\\FuncionarioRequest.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Funcionario\\FuncionarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:26:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoradorRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Morador\\MoradorRequest.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Morador\\MoradorRequest.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Morador\\MoradorRequest.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Morador\\MoradorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:20:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoradorResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Morador\\MoradorResponse.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Morador\\MoradorResponse.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Morador\\MoradorResponse.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Morador\\MoradorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:21:10.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VisitanteResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Visitante\\VisitanteResponse.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\DTO\\Visitante\\VisitanteResponse.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\DTO\\Visitante\\VisitanteResponse.cs",
+              "RelativeToolTip": "MeuCondo\\DTO\\Visitante\\VisitanteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:26:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "MeuCondo\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:40:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MeuCondo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MeuCondo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T23:33:03.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Program.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Program.cs",
+              "RelativeToolTip": "MeuCondo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:31:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\WeatherForecast.cs",
+              "RelativeToolTip": "MeuCondo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:31:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeuCondo.http",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\MeuCondo.http",
+              "RelativeDocumentMoniker": "MeuCondo\\MeuCondo.http",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\MeuCondo.http",
+              "RelativeToolTip": "MeuCondo\\MeuCondo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-01T23:31:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\appsettings.json",
+              "RelativeDocumentMoniker": "MeuCondo\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\appsettings.json",
+              "RelativeToolTip": "MeuCondo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T23:31:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MeuCondoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Controllers\\MeuCondoController.cs",
+              "RelativeDocumentMoniker": "MeuCondo\\Controllers\\MeuCondoController.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoTeste\\PortariaEletronica\\MeuCondo\\MeuCondo\\Controllers\\MeuCondoController.cs",
+              "RelativeToolTip": "MeuCondo\\Controllers\\MeuCondoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:31:22.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

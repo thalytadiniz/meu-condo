@@ -1,0 +1,6 @@
+@MeuCondo_HostAddress = http://localhost:5272
+
+GET {{MeuCondo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
