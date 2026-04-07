@@ -3,7 +3,7 @@
     public class MoradorRequest
     {
         public string Nome { get; set; }
-        public string NroCpf { get; set; }
+        public string NroDocumento { get; set; }
 
         public string Telefone { get; set; }
 

@@ -6,7 +6,7 @@
 
         public string Bloco { get; set; }
 
-        public char Ativo { get; set; } // S ou N
+        public bool Ativo { get; set; }
 
     }
 }
